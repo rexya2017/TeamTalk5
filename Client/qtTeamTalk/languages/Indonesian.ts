@@ -3946,7 +3946,7 @@ Haruskah pengaturan ini diterapkan?</translation>
     <message>
         <location filename="../mediastorage.ui" line="196"/>
         <source>S&amp;top</source>
-        <translation>Di &amp;atas</translation>
+        <translation>Ber&amp;henti</translation>
     </message>
     <message>
         <location filename="../mediastorage.ui" line="189"/>
@@ -5343,7 +5343,7 @@ server telah diverifikasi.</translation>
     <message>
         <location filename="../serverlistdlg.cpp" line="685"/>
         <source>De&amp;fault</source>
-        <translation>De&amp;foult</translation>
+        <translation>De&amp;fault</translation>
     </message>
     <message>
         <location filename="../serverlistdlg.cpp" line="686"/>
